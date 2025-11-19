@@ -1,0 +1,13 @@
+# Corso di laurea in programmazione e gestione di sistemi informatici - AA 2025 - 2026 Laboratorio open source
+
+## Materiale didattico
+
+Gli studenti iscritti al corso di laurea possono usufruire della piattaforma [UniStudium](https://unistudium.unipg.it/)
+
+## Struttura di questo repository
+
+Utilizare la cartella [Progetti](Progetti) per sottoporre a valutazione il vostro progetto d'esame.
+
+La cartella [Lezioni](Lezioni) e sue sottocartelle, include gli argomenti trattati a lezione ed eventuali link di approfondimento
+
+La cartella [Licenze-contributori](Licenze-contributori) contiene le licenze aggiuntive dei vari contributori
