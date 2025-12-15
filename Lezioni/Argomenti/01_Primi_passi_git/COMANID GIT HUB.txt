@@ -1,0 +1,35 @@
+appunti comandi git:
+
+ 1. Clonare un repository 
+git clone 
+
+
+ 
+2. Controllare lo stato (vedi cosa è cambiato)
+git status
+
+ 3. Aggiungere un file o cartella al commit
+git add nomefile
+ oppure per aggiungere tutto
+git add .
+
+4. Fare un commit (salvare le modifiche localmente)
+git commit -m "Messaggio descrittivo delle modifiche"
+
+5. Mandare le modifiche su GitHub
+git push origin main
+# (se sei su un branch diverso, sostituisci 'main' con il nome del branch)
+
+6. Aggiornare il tuo repo con le ultime modifiche da GitHub
+git pull origin main
+
+ 7. Creare un nuovo branch (utile per PR)
+git checkout -b nome-del-branch
+
+ 8. Tornare al branch principale
+git checkout main
+
+9.git rebase , + Ti permette di modificare la storia dei tuoi commit.
+
+10.
+
