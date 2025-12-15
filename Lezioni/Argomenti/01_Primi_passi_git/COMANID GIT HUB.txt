@@ -23,7 +23,7 @@ git push origin main
 6. Aggiornare il tuo repo con le ultime modifiche da GitHub
 git pull origin main
 
- 7. Creare un nuovo branch (utile per PR)
+ 7. Creare un nuovo branch
 git checkout -b nome-del-branch
 
  8. Tornare al branch principale
@@ -31,5 +31,6 @@ git checkout main
 
 9.git rebase , + Ti permette di modificare la storia dei tuoi commit.
 
-10.
+
+
 
