@@ -6,7 +6,7 @@
 	Nelle prime lezioni abbiamo parlato del mondo Open Source e di  come funziona git hub.
 	Successivamente siamo entrati nel pratico, abbiamo creato la nostra prima chiave github e abbiamo imparato diversi comandi.	
 
-	##APPUNTI GITHUB -
+	## APPUNTI GITHUB -
 	
 	git fetch --all= Va a risincronizzare tutte le nuove informazioni create Esempio:(branch).
 	
