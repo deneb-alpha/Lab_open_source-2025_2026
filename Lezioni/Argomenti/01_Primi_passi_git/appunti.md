@@ -1,6 +1,6 @@
 Appunti comandi terminale dal 26/11/2025
 
-- git commit -M= per creare un commit con un messagio.
+- git commit -m= per creare un commit con un messagio.
 - git branch= per vedere la branch.
 - git branch -a= stampa la branch dove mi trovo(verde) e i remotes(rosso).
 - git branch -vv= stampa le informazioni della branch.
